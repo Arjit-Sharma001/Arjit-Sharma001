@@ -46,10 +46,10 @@ I'm a computer science undergraduate with a focus on building intelligent system
 
 ## 🌐 Let's Connect
 
+[![Resume Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=googlechrome&logoColor=white)](https://www.linkedin.com/in/arjit-sharma-123456789/)
 [![Gmail Badge](https://img.shields.io/badge/-arjitsharma152@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:arjitsharma152@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Arjit-Sharma001)
 [![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat&logo=googlechrome&logoColor=white)](https://arjit-sharma001.github.io/Resume)
-[![Resume Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=googlechrome&logoColor=white)](https://www.linkedin.com/in/arjit-sharma-123456789/)
 
 ---
 
