@@ -1,13 +1,15 @@
-👋 Hi, I'm Arjit Sharma
+<h1 align="center">👋 Hi, I'm Arjit Sharma</h1>
 
-🎓 **B.Tech CSE Student** | 📍 *Amity University Madhya Pradesh* (2021–2025)  
-📈 Minor Track: Data Science | 💡 Passionate about AI, Flutter, and Full-Stack Development
+<p align="center">
+  🎓 <b>B.Tech CSE Student</b> @ <i>Amity University Madhya Pradesh (2021–2025)</i><br>
+  📈 Minor: Data Science &nbsp; | &nbsp; 💡 Passionate about AI, Flutter & Full-Stack Development
+</p>
 
 ---
 
 ## 👨‍🎓 About Me
 
-I'm a computer science undergraduate with a focus on building intelligent systems and mobile apps. With hands-on experience in Flutter, Android development, and AI-based projects, I enjoy solving real-world problems using modern technologies.
+I'm a computer science undergraduate focused on building intelligent systems and mobile apps. With hands-on experience in Flutter, Android, and AI-powered projects, I enjoy solving real-world challenges with clean, scalable code.
 
 ---
 
@@ -22,51 +24,56 @@ I'm a computer science undergraduate with a focus on building intelligent system
 
 ## 🔗 Projects
 
-- 💼 [E-Commerce Flutter App](https://github.com/Arjit-Sharma001/E_MartApp_flutter) — Full-stack mobile application  
-- 🤖 [AI Voice Assistant](https://github.com/Arjit-Sharma001/ai_assistant) — Voice-based assistant using GPT/Gemini APIs  
-- 🎯 [Real-Time Object Detection](https://github.com/Arjit-Sharma001/object_detection_app.git) — ML app using TensorFlow Lite  
-- 🌾 *Farm Expert* — AI-based crop diagnosis and prescription tool *(Private repo)*
+- 💼 [E-Commerce Flutter App](https://github.com/Arjit-Sharma001/E_MartApp_flutter) — Full-stack mobile app  
+- 🤖 [AI Voice Assistant](https://github.com/Arjit-Sharma001/ai_assistant) — GPT/Gemini-based assistant  
+- 🎯 [Object Detection App](https://github.com/Arjit-Sharma001/object_detection_app.git) — Real-time ML with TensorFlow Lite  
+- 🌾 *Farm Expert* — AI crop diagnosis & prescription *(Private repo)*
 
 ---
 
-## 💼  Internships
+## 💼 Internships
 
-- **Outlier.AI** – LLM Training Intern *(Remote)*  
-- **Google** – Android Developer Virtual Internship  
-- **Palo Alto Networks** – Cybersecurity Internship
+- 🧠 **Outlier.AI** — LLM Training Intern *(Remote)*  
+- 📱 **Google** — Android Developer Virtual Internship  
+- 🔐 **Palo Alto Networks** — Cybersecurity Internship
 
 ---
 
 ## 🏅 Certifications
 
-- Zero Trust Certified Associate (ZTCA)  
-- EDU-102: Fundamentals of Cybersecurity
+- ✅ Zero Trust Certified Associate (ZTCA)  
+- 🛡️ EDU-102: Fundamentals of Cybersecurity
 
 ---
 
 ## 🌐 Let's Connect
 
-[![Resume Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=googlechrome&logoColor=white)](https://www.linkedin.com/in/arjit-sharma001/)
-[![Gmail Badge](https://img.shields.io/badge/-arjitsharma152@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:arjitsharma152@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Arjit-Sharma001)
-[![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat&logo=googlechrome&logoColor=white)](https://arjit-sharma001.github.io/Resume)
+<p align="center">
+  <a href="mailto:arjitsharma152@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arjitsharma152@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Arjit-Sharma001">
+    <img src="https://img.shields.io/badge/GitHub-Arjit--Sharma001-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arjit-sharma001/">
+    <img src="https://img.shields.io/badge/LinkedIn-arjit--sharma001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://arjit-sharma001.github.io/Resume">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> “Engineer with a mission to innovate, automate, and elevate.”
+<p align="center">
+  <em>“Engineer with a mission to innovate, automate, and elevate.”</em>
+</p>
 
+---
 
-<!--
-**Arjit-Sharma001/Arjit-Sharma001** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjit-Sharma001&show_icons=true&theme=tokyonight" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arjit-Sharma001&theme=tokyonight" height="150"/>
+</p>
