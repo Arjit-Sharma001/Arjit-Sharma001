@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Arjit Sharma
 
 🎓 **B.Tech CSE Student** | 📍 *Amity University Madhya Pradesh* (2021–2025)  
